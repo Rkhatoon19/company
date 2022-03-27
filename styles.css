@@ -1,0 +1,86 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    width:80%;
+    margin: 0 auto;
+}
+.nabigation-bar
+{
+    display:flex;
+    align-items: center;
+   
+    justify-content: space-between;
+}
+.nav-tabs a {
+    margin: 5px;
+    text-decoration: none;
+}
+.nav-tabs span {
+    margin: 5px;
+}
+.intro{
+    background-image: url("images/backgroundimges.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.written{
+    
+    margin:0 auto;
+    padding: 50px;
+    text-align: center;
+}
+.written h1{
+    font-size: 45px;
+}
+.details{
+    display: flex;
+    gap: 20px;
+    
+    background-color: #7cc5f0;
+}
+.details p{
+   letter-spacing: 3px;
+}
+.design{
+   
+}
+.design img{
+    width:155px;
+}
+.design h3{
+    letter-spacing: 5px;
+}
+.about-section{
+    display: flex;
+   background-color: #98d4f7;
+    align-items: center;
+}
+.texting{
+    font-size: 16px;
+   
+}
+.texting h2{
+    letter-spacing: 5px;
+}
+.texting p{
+    letter-spacing: 7px;
+}
+.texting button{
+    border-radius: 5px;
+}
+.three-images{
+    display: flex;
+    gap:15px;
+   background-color: #65bff3;
+}
+
+
+footer {
+    text-align: center;
+    background-color: #93d0f3;
+    padding: 5px;
+    font-weight: bold;
+}
