@@ -75,10 +75,8 @@ body{
 }
 .three-images{
     display: flex;
-    gap:15px;
-   background-color:    #2E8BC0;
+     background-color: #2E8BC0;
 }
-
 
 footer {
     text-align: center;
